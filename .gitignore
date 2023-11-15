@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-/Competitions/Optiver/data/example_test_files/
-/Competitions/Optiver/data/train.csv
-=======
-/Competition/Optiver/Data/*
 /.idea/*
->>>>>>> origin/master
-/Competitions/DetectFakeText/checkPoint/fold0.keras
+/kaggle/input/*
