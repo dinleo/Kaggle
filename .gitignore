@@ -1,4 +1,3 @@
 /.idea/*
-/kaggle/input/*
-/kaggle/Model/daigt-kerasnlp-ckpt/*
-/Optiver/*
+/llm-detect-ai-generated-text/kaggle/*
+/optiver-trading-at-the-close/kaggle/*
