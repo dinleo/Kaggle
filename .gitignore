@@ -2,3 +2,4 @@
 /llm-detect-ai-generated-text/kaggle/*
 /optiver-trading-at-the-close/kaggle/*
 /llm-detect-ai-generated-text/wandb/
+/llm-detect-ai-generated-text/.env
